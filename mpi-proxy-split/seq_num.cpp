@@ -12,7 +12,7 @@
 
 using namespace dmtcp_mpi;
 
-#define DEBUG_SEQ_NUM
+// #define DEBUG_SEQ_NUM
 
 extern int g_world_rank;
 extern int g_world_size;
